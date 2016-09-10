@@ -94,6 +94,9 @@ li a {
 main {
   display: block;
   padding: 0 20px;
+  width: 800px;
+  border-color: #DD3543;
+  border-width: 5px;
 }
 
 
@@ -101,6 +104,12 @@ main {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*Footer*/
 footer {
+  background: #DD3543;
+}
+
+/* LEFT COLUNM 
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+content {
   background: #DD3543;
 }
 
